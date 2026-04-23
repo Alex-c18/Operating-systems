@@ -4,7 +4,7 @@
 
 ## Структура
 
-*   [Лабораторная работа 1: Установка и основы работы в Linux](https://github.com/Alex-c18/Operating-systems/tree/main/laba1/lab1)
+*   [Лабораторная работа 1: Установка и основы работы в Linux](https://github.com/Alex-c18/Operating-systems/tree/main/laba1/)
 *   [Лабораторная работа 2: Терминал и локальное администрирование в Linux]([/lab2](https://github.com/Alex-c18/Operating-systems/tree/main/laba2))
 *   [Лабораторная работа 3: Программирование в Linux: Shell и GCC]([/lab3](https://github.com/Alex-c18/Operating-systems/tree/main/laba3))
 *   [Лабораторная работа 4: Управление сетью в Linux]([/lab4](https://github.com/Alex-c18/Operating-systems/tree/main/laba4))
